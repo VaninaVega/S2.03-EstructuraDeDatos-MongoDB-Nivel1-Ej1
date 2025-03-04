@@ -5,11 +5,11 @@
   "fax": "12987766789",
   "NIF": "B887678",
   "address": {
-    "calle": "Av. Magnolias",
-    "numero": "6034",
-    "ciudad": "Barcelona",
-    "codigo_postal": "08029",
-    "pais": "España"
+    "city": "Barcelona",
+    "country": "España",
+    "number": "6034",
+    "postal_code": "08029",
+    "street": "Av. Magnolias"
   },
   "name": "Óptica 1",
   "phone": "1876556789"
@@ -21,11 +21,11 @@
   "fax": "+34 956321",
   "NIF": "A5345678",
   "address": {
-    "calle": "Rambla",
-    "numero": "823",
     "ciudad": "Madrid",
-    "codigo_postal": "28098",
-    "pais": "España"
+    "country": "España",
+    "number": "823",
+    "postal_code": "28098",
+    "street": "Rambla"
   },
   "name": "Óptica 2",
   "phone": "+34 9156773456"
@@ -37,11 +37,11 @@
   "fax": "+34 930654987",
   "NIF": "B8798764321",
   "address": {
-    "calle": "Passeig de Gràcia",
-    "numero": "489",
-    "ciudad": "Barcelona",
-    "codigo_postal": "08029",
-    "pais": "España"
+    "city": "Barcelona",
+    "country": "España",
+    "number": "489",
+    "postal_code": "08029",
+    "street": "Passeig de Gràcia"
   },
   "name": "Óptica 3",
   "phone": "+34 9898647654"
