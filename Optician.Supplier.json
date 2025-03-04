@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "67c72420fb3dc7cfbca295a0"
+  },
+  "fax": "12987766789",
+  "NIF": "B887678",
+  "address": {
+    "calle": "Av. Magnolias",
+    "numero": "6034",
+    "ciudad": "Barcelona",
+    "codigo_postal": "08029",
+    "pais": "España"
+  },
+  "name": "Óptica 1",
+  "phone": "1876556789"
+},
+{
+  "_id": {
+    "$oid": "67c72420fb3dc7cfbca295a1"
+  },
+  "fax": "+34 956321",
+  "NIF": "A5345678",
+  "address": {
+    "calle": "Rambla",
+    "numero": "823",
+    "ciudad": "Madrid",
+    "codigo_postal": "28098",
+    "pais": "España"
+  },
+  "name": "Óptica 2",
+  "phone": "+34 9156773456"
+},
+{
+  "_id": {
+    "$oid": "67c72420fb3dc7cfbca295a2"
+  },
+  "fax": "+34 930654987",
+  "NIF": "B8798764321",
+  "address": {
+    "calle": "Passeig de Gràcia",
+    "numero": "489",
+    "ciudad": "Barcelona",
+    "codigo_postal": "08029",
+    "pais": "España"
+  },
+  "name": "Óptica 3",
+  "phone": "+34 9898647654"
+}]

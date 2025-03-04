@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "67c7284efb3dc7cfbca295b6"
+  },
+  "customer": {
+    "$oid": "67c7278efb3dc7cfbca295b2"
+  },
+  "glasses": {
+    "$oid": "67c724d6fb3dc7cfbca295a5"
+  },
+  "saleDateTime": {
+    "$date": "2025-03-03T16:00:06.440Z"
+  },
+  "prescription": {
+    "right": "2.0",
+    "left": "2.3"
+  },
+  "glasses_color": {
+    "right": "brown",
+    "left": "brown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c774b9fb3dc7cfbca295f0"
+  },
+  "customer": {
+    "$oid": "67c76f94fb3dc7cfbca295d7"
+  },
+  "glasses": {
+    "$oid": "67c724d6fb3dc7cfbca295a6"
+  },
+  "saleDateTime": {
+    "$date": "2025-03-03T16:00:06.440Z"
+  },
+  "prescription": {
+    "right": "2.0",
+    "left": "2.3"
+  },
+  "lensColor": {
+    "right": "brown",
+    "left": "brown"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c774fafb3dc7cfbca295f6"
+  },
+  "customer": {
+    "$oid": "67c76fddfb3dc7cfbca295d9"
+  },
+  "glasses": {
+    "$oid": "67c724d6fb3dc7cfbca295a7"
+  },
+  "saleDateTime": {
+    "$date": "2024-08-23T16:00:06.440Z"
+  },
+  "prescription": {
+    "right": "1.0",
+    "left": "2.0"
+  },
+  "lensColor": {
+    "right": "grey",
+    "left": "grey"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7756ffb3dc7cfbca295fd"
+  },
+  "customer": {
+    "$oid": "67c77010fb3dc7cfbca295db"
+  },
+  "glasses": {
+    "$oid": "67c724d6fb3dc7cfbca295a8"
+  },
+  "saleDateTime": {
+    "$date": "2025-03-03T16:00:06.440Z"
+  },
+  "prescription": {
+    "right": "3.5",
+    "left": "2.3"
+  },
+  "lensColor": {
+    "right": "grey",
+    "left": "brown"
+  }
+}]

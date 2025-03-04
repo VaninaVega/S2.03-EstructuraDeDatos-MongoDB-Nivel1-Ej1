@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "67c729e0fb3dc7cfbca295c3"
+  },
+  "name": "Vanina Vega",
+  "sales": [
+    {
+      "$oid": "67c7284efb3dc7cfbca295b6"
+    }
+  ],
+  "address": "Rambla, 71, Barcelona",
+  "phone": "034567876"
+},
+{
+  "_id": {
+    "$oid": "67c729e0fb3dc7cfbca295c4"
+  },
+  "name": "Matías lópez",
+  "sales": [
+    null
+  ],
+  "address": "Rambla, 23, Barcelona",
+  "phone": "034567876"
+},
+{
+  "_id": {
+    "$oid": "67c776a2fb3dc7cfbca2960b"
+  },
+  "name": "Christian Gomez",
+  "address": "Av Diagonal, 18, Barcelona",
+  "phone": "727476754",
+  "sales": [
+    {
+      "$oid": "67c774b9fb3dc7cfbca295f0"
+    }
+  ]
+}]

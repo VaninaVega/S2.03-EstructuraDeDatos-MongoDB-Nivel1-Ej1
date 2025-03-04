@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "67c7278efb3dc7cfbca295b2"
+  },
+  "name": "Example Customer 1",
+  "address": "Right Street, 123",
+  "phone": "678921235",
+  "email": "email@email.com",
+  "registrationDate": {
+    "$date": "2023-09-23T00:00:00.000Z"
+  },
+  "referredCustomer": null
+},
+{
+  "_id": {
+    "$oid": "67c76f94fb3dc7cfbca295d7"
+  },
+  " referredCustomer": "67c76fddfb3dc7cfbca295d9",
+  "address": "Carrer las lilas, 41",
+  "name": "María Garcia",
+  "registrationDate": "2023-07-12",
+  "acquisition": [
+    {
+      "$oid": "67c7284efb3dc7cfbca295b6"
+    }
+  ],
+  "email": "mariaa@gmail.com",
+  "phone": "123454321"
+},
+{
+  "_id": {
+    "$oid": "67c76fddfb3dc7cfbca295d9"
+  },
+  " referredCustomer": "67c77010fb3dc7cfbca295db",
+  "address": "Ramblao, 41",
+  "name": "Mileña Vaga",
+  "registrationDate": "2025-01-23",
+  "acquisition": [
+    {
+      "$oid": "67c774fafb3dc7cfbca295f6"
+    }
+  ],
+  "email": "mileña@gmail.com",
+  "phone": "123454321"
+},
+{
+  "_id": {
+    "$oid": "67c77010fb3dc7cfbca295db"
+  },
+  " referredCustomer": {
+    "$oid": "67c7278efb3dc7cfbca295b2"
+  },
+  "address": "Carrer de Valencia, 28",
+  "name": "Julio Perez",
+  "registrationDate": "2024-01-19",
+  "acquisition": [
+    {
+      "$oid": "67c7756ffb3dc7cfbca295fd"
+    }
+  ],
+  "email": "julio@gmail.com",
+  "phone": "923486754"
+}]

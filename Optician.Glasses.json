@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "67c724d6fb3dc7cfbca295a5"
+  },
+  "brand": "Ray-ban",
+  "frame_color": "Verde Oscuro",
+  "frame_type": "Metálica",
+  "glasses_color": "Marrón",
+  "price": "175",
+  "supplier": "Óptica 1",
+  "prescription": {
+    "izquierda": 1.25,
+    "derecha": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "67c724d6fb3dc7cfbca295a6"
+  },
+  "brand": "Ray-ban",
+  "frame_color": "Rojo",
+  "frame_type": "Pasta",
+  "glasses_color": "Negras",
+  "price": "349,99",
+  "supplier": "Óptica 2",
+  "prescription": {
+    "izquierda": 2.75,
+    "derecha": 2.15
+  }
+},
+{
+  "_id": {
+    "$oid": "67c724d6fb3dc7cfbca295a7"
+  },
+  "brand": "Gucci",
+  "frame_color": "Negro",
+  "frame_type": "Pasta",
+  "glasses_color": "Transparente",
+  "price": 320.5,
+  "supplier": "Óptica 3",
+  "prescription": {
+    "izquierda": -1.5,
+    "derecha": -1.25
+  }
+},
+{
+  "_id": {
+    "$oid": "67c724d6fb3dc7cfbca295a8"
+  },
+  "brand": "Oakley",
+  "frame_color": "Plateado",
+  "frame_type": "Metálica",
+  "glasses_color": "Azul",
+  "price": 180.99,
+  "supplier": "Óptica 2",
+  "prescription": {
+    "izquierda": -2,
+    "derecha": -1.75
+  }
+}]
