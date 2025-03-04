@@ -17,9 +17,9 @@ Imagine we have the following graphical interface, from the point of view of an 
 ## Technologies Used
 
 Requirements: 
-### Installing MongoDB Compass:
+- Installing MongoDB Compass:
 Make sure you have MongoDB Compass installed on your system. If you don't have it, you can download it from the official MongoDB website.
-### Connecting to your Database:
+- Connecting to your Database:
 Open MongoDB Compass and connect to your MongoDB instance.
 
 ## Contribution
