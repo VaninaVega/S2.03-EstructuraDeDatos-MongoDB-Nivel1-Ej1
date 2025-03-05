@@ -37,7 +37,7 @@
   "frame_type": "Pasta",
   "glasses_color": "Transparente",
   "price": 320.5,
-  "supplier": "ObjectId(67c72420fb3dc7cfbca295a2)",
+  "supplier": "{$oid:'67c72420fb3dc7cfbca295a2'}",
   "prescription": {
     "left": -1.5,
     "right": -1.25
