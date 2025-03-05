@@ -7,7 +7,7 @@
   "frame_type": "Metálica",
   "glasses_color": "Marrón",
   "price": "175",
-  "supplier": "67c72420fb3dc7cfbca295a0",
+  "supplier": "ObjectId(67c72420fb3dc7cfbca295a0)",
   "prescription": {
     "izquierda": 1.25,
     "derecha": 1
@@ -22,7 +22,7 @@
   "frame_type": "Pasta",
   "glasses_color": "Negras",
   "price": "349,99",
-  "supplier": "67c72420fb3dc7cfbca295a1",
+  "supplier": "ObjectId('67c72420fb3dc7cfbca295a1')",
   "prescription": {
     "left": 2.75,
     "right": 2.15
@@ -37,7 +37,7 @@
   "frame_type": "Pasta",
   "glasses_color": "Transparente",
   "price": 320.5,
-  "supplier": "67c72420fb3dc7cfbca295a2",
+  "supplier": "ObjectId(67c72420fb3dc7cfbca295a2)",
   "prescription": {
     "left": -1.5,
     "right": -1.25
@@ -52,7 +52,7 @@
   "frame_type": "Metálica",
   "glasses_color": "Azul",
   "price": 180.99,
-  "supplier": "67c72420fb3dc7cfbca295a2",
+  "supplier": "ObjectId(67c72420fb3dc7cfbca295a2)",
   "prescription": {
     "left": -2,
     "right": -1.75
